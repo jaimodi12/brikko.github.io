@@ -1,8 +1,5 @@
 # Brikko Website Replica
 
-This package recreates the public Brikko homepage structure and content visible at:
-https://devndrapandagre.github.io/Brikko/index.html
-
 Included:
 - Responsive header/navigation
 - 3-slide hero carousel
